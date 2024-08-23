@@ -1,0 +1,7 @@
+.vs/*
+Release/*
+x64/*
+*.vcxproj
+*.filters
+*.user
+*.zip
